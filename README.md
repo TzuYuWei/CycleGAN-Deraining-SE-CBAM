@@ -62,9 +62,8 @@ Rainy Image → Derained Image
 
 | Rainy Image | Derained Image | Ground Truth |
 |-------------|---------------|--------------|
-| ![](images/result1_rain.png) | ![](images/result1_clean.png) | ![](images/result1_groundtruth.png) |
-| ![](images/result2_rain.png) | ![](images/result2_clean.png) | ![](images/result2_groundtruth.png) |
-| ![](images/result3_rain.png) | ![](images/result3_clean.png) | ![](images/result3_groundtruth.png) |
+| ![](Images/result1_rain.png) | ![](Images/result1_clean.png) | ![](Images/result1_groundtruth.png) |
+| ![](Images/result2_rain.png) | ![](Images/result2_clean.png) | ![](Images/result2_groundtruth.png) |
 
 ---
 
