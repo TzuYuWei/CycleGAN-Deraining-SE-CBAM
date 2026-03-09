@@ -1,4 +1,4 @@
-# SE-Block-and-CBAM-Fusion
+# CycleGAN-Deraining-SE-CBAM
 ## ATTENTION-ENHANCED CYCLEGAN FOR IMAGE DERAINING
 
 **Python | PyTorch | GAN | Computer Vision | Image Restoration**
